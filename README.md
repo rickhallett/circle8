@@ -194,6 +194,7 @@ Traditional education becomes outdated quickly. Online courses are often too gen
 - [ ] Assess your current skills and goals
 - [ ] Choose your first instructor or create a custom path
 - [ ] Commit to daily practice (50-60 minutes)
+- [ ] Use the learning journal to track your progress
 - [ ] Implement projects to reinforce learning
 - [ ] Share your progress and get feedback
 - [ ] Iterate and adapt based on results

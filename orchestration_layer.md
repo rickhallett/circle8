@@ -8,8 +8,8 @@
 - Exceptional communication and empathy skills
 - Goal: Technical leadership roles combining human factors with engineering
 
-**Learning Commitment**: 30 minutes daily
-**Approach**: Organic progression with strategic checkpoints
+**Learning Commitment**: Two 90-minute blocks daily, 5 days/week
+**Approach**: Aggressive progression with integrated multi-lens learning
 
 ## Orchestration Philosophy
 
@@ -21,93 +21,107 @@ This orchestration layer coordinates all Circle8 instructors to create a cohesiv
 
 ## Phase-Based Learning Journey
 
-### Phase 1: Foundation Building (Weeks 1-8)
-**Goal**: Establish technical breadth while leveraging human insights
+### Phase 1: Foundation Building (Weeks 1-4)
+**Goal**: Rapid technical foundation with integrated human and business perspectives
 
-#### Week 1-2: Technical Leadership & Human Systems
-- **Primary**: Leadership & Human Factors Instructor
-- **Secondary**: System Design Instructor (Days 1-2 only)
-- **Focus**: Psychological safety, team dynamics, Conway's Law
-- **Daily Structure**: 20 min Human Factors + 10 min System Design context
+#### Week 1-2: Integrated Technical Leadership
+**Active Coaches** (3 simultaneous):
+- **Technical**: System Design + Backend SQL Patterns Instructors
+- **Business**: Product Strategy Instructor  
+- **Human**: Leadership & Human Factors Instructor
 
-#### Week 3-4: Business Technology Alignment  
-- **Primary**: Product Strategy Instructor
-- **Secondary**: API Design Instructor (Developer experience focus)
-- **Focus**: Value creation, metrics, customer empathy
-- **Daily Structure**: 20 min Product Strategy + 10 min API DX principles
+**Daily Focus**:
+- Morning Block: Technical foundations (system design patterns, data modeling)
+- Evening Block: Business value and human impact of technical decisions
+- Integration: Every technical concept viewed through business ROI and team dynamics
 
-#### Week 5-6: Architecture & Decisions
-- **Primary**: Architecture Decision Instructor
-- **Secondary**: Cloud Architecture Instructor
-- **Focus**: Trade-off analysis, stakeholder communication, ADRs
-- **Daily Structure**: 20 min Architecture Decisions + 10 min Cloud patterns
+#### Week 3-4: Architecture & Platform Thinking
+**Active Coaches** (3 simultaneous):
+- **Technical**: Architecture Decision + Cloud Architecture + DevOps/Platform Instructors
+- **Business**: Product Strategy Instructor (continued)
+- **Human**: Leadership & Human Factors Instructor (continued)
 
-#### Week 7-8: Full-Stack Understanding
-- **Primary**: Backend SQL Patterns Instructor
-- **Secondary**: Data Engineering Instructor
-- **Focus**: Data modeling, business logic, API design
-- **Daily Structure**: 15 min each, focusing on business value
+**Daily Focus**:
+- Morning Block: Architecture patterns, cloud services, platform engineering
+- Evening Block: Cost analysis, team productivity, decision frameworks
+- Integration: Technical choices as business and organizational decisions
 
-### Phase 2: Integration & Depth (Weeks 9-16)
-**Goal**: Combine technical knowledge with human-centered leadership
+### Phase 2: Advanced Integration (Weeks 5-8)
+**Goal**: Deep technical expertise with continuous business and human integration
 
-#### Week 9-10: Platform Thinking
-- **Primary**: DevOps/Platform Engineering Instructor
-- **Lens**: Developer experience and team productivity
-- **Integration**: How platforms enable human productivity
+#### Week 5-6: Security, Performance & Real-Time Systems
+**Active Coaches** (3 simultaneous):
+- **Technical**: Security Engineering + Performance Engineering + Real-Time Systems Instructors
+- **Business**: Focus on compliance costs, performance ROI, collaboration tools market
+- **Human**: Trust building, user empathy, team communication patterns
 
-#### Week 11-12: Security & Trust
-- **Primary**: Security Engineering Instructor
-- **Lens**: Building trust through security, compliance as care
-- **Integration**: Psychological safety includes data safety
+**Daily Focus**:
+- Morning Block: Security patterns, performance optimization, real-time architectures
+- Evening Block: Business impact of breaches, cost of latency, collaboration effectiveness
+- Integration: Technical excellence as competitive advantage and trust building
 
-#### Week 13-14: Performance & User Experience
-- **Primary**: Performance Engineering Instructor
-- **Lens**: Performance as empathy for users
-- **Integration**: Human cost of poor performance
+#### Week 7-8: Data & AI Systems
+**Active Coaches** (3 simultaneous):
+- **Technical**: Data Engineering + AI/ML Integration + API Design Instructors
+- **Business**: Data monetization, AI strategy, API economy
+- **Human**: Ethical AI, bias prevention, developer experience
 
-#### Week 15-16: Real-Time Collaboration
-- **Primary**: Real-Time Systems Instructor
-- **Lens**: Enabling human connection through technology
-- **Integration**: Synchronous vs asynchronous communication patterns
+**Daily Focus**:
+- Morning Block: Data pipelines, ML ops, API patterns
+- Evening Block: Business intelligence, AI ethics, platform strategies
+- Integration: Data and AI as human augmentation tools
 
-### Phase 3: Advanced Leadership (Weeks 17-24)
-**Goal**: Synthesize all learning into leadership capability
+### Phase 3: Leadership Synthesis (Weeks 9-12)
+**Goal**: Rapid synthesis into technical leadership capability
 
-#### Week 17-18: AI & Ethics
-- **Primary**: AI/ML Integration Instructor
-- **Lens**: Ethical AI, human-in-the-loop, bias prevention
-- **Integration**: Psychological insights for responsible AI
+#### Week 9-10: Distributed Systems & Edge Computing
+**Active Coaches** (3 simultaneous):
+- **Technical**: Edge Computing + Advanced System Design + Orchestration Instructors
+- **Business**: Global markets, edge economics, orchestration ROI
+- **Human**: Remote team dynamics, global user needs, cultural considerations
 
-#### Week 19-20: Distributed Teams & Systems
-- **Primary**: System Design + Edge Computing Instructors
-- **Lens**: Human factors in distributed systems
-- **Integration**: Building resilient human and technical systems
+**Daily Focus**:
+- Morning Block: Distributed architectures, edge patterns, agent orchestration
+- Evening Block: Business cases for distribution, cost-benefit analysis
+- Integration: Building globally scalable technical and human systems
 
-#### Week 21-22: Strategic Technology Decisions
-- **Primary**: Cloud Architecture + Architecture Decision Instructors
-- **Lens**: Long-term thinking, organizational impact
-- **Integration**: Technical debt as organizational debt
+#### Week 11-12: Capstone Leadership Project
+**All Coaches Available**: Draw from any instructor as needed
+**Project Requirements**:
+- Design a complete technical solution for a real business problem
+- Include architecture, team structure, and business case
+- Address human factors, scalability, and maintainability
+- Present trade-offs and decision rationale
 
-#### Week 23-24: Capstone Leadership Project
-- **All Instructors**: Available for reference
-- **Project**: Design a human-centered technical initiative
-- **Integration**: Demonstrate mastery across all domains
+**Daily Focus**:
+- Morning Block: Technical implementation and documentation
+- Evening Block: Business case refinement and stakeholder communication
+- Integration: Demonstrate mastery across all domains
 
-## Daily Learning Structure (30 minutes)
+## Daily Learning Structure (Two 90-minute blocks)
 
-### Standard Day Format
-1. **Check-in** (2 min): Journal prompt reflection
-2. **Market Check** (3 min): Current trends relevant to today's topic
-3. **Core Learning** (20 min): Primary instructor content
-4. **Integration** (3 min): Connect to human factors/business value
-5. **Check-out** (2 min): Key insight and tomorrow's preview
+### Morning Block (90 minutes) - Technical Deep Dive
+1. **Market Check** (10 min): Current tech trends and industry news
+2. **Technical Learning** (60 min): 
+   - Primary technical instructor content (40 min)
+   - Hands-on implementation (20 min)
+3. **Business Connection** (15 min): ROI and value analysis
+4. **Quick Reflection** (5 min): Technical insights and questions
 
-### Weekly Rhythm
-- **Monday**: New concept introduction
-- **Tuesday-Thursday**: Deep practice and application
-- **Friday**: Integration and reflection
-- **Weekend**: Optional deeper dives or catch-up
+### Evening Block (90 minutes) - Integration & Application
+1. **Check-in** (5 min): Energy check and focus setting
+2. **Multi-Lens Analysis** (60 min):
+   - Business lens application (20 min)
+   - Human factors integration (20 min)
+   - Cross-domain synthesis (20 min)
+3. **Project Work** (20 min): Apply to ongoing project/case study
+4. **Journal & Plan** (5 min): Document insights and next steps
+
+### Weekly Rhythm (Monday-Friday)
+- **Monday**: New concepts across all three coaches
+- **Tuesday-Wednesday**: Deep technical practice with integration
+- **Thursday**: Real-world application and case studies
+- **Friday**: Synthesis, reflection, and planning next week
 
 ## Learning Journal System
 
@@ -176,23 +190,23 @@ One thing I'll implement or explore further:
 ## Checkpoint System
 
 ### Phase Checkpoints
-**End of Phase 1 (Week 8)**
-- [ ] Can articulate technical decisions in human terms
-- [ ] Understand basic architecture patterns across the stack
-- [ ] Connect technology choices to business outcomes
-- [ ] Completed 40 journal entries
+**End of Phase 1 (Week 4)**
+- [ ] Strong foundation in system design and architecture patterns
+- [ ] Can analyze technical decisions through business and human lenses
+- [ ] Understand cloud, platform, and backend fundamentals
+- [ ] Completed 40 integrated learning sessions
 
-**End of Phase 2 (Week 16)**
-- [ ] Can lead technical discussions with empathy
-- [ ] Understand operational aspects of running systems
-- [ ] Balance security, performance, and usability
-- [ ] Completed 80 journal entries
+**End of Phase 2 (Week 8)**
+- [ ] Deep expertise in security, performance, and data systems
+- [ ] Can design and implement production-ready solutions
+- [ ] Balance technical excellence with business constraints
+- [ ] Completed 80 integrated learning sessions
 
-**End of Phase 3 (Week 24)**
-- [ ] Ready for technical leadership roles
-- [ ] Can design human-centered technical solutions
-- [ ] Integrate business, technical, and human factors
-- [ ] Completed 120 journal entries with portfolio project
+**End of Phase 3 (Week 12)**
+- [ ] Ready for senior technical leadership roles
+- [ ] Portfolio project demonstrating full-stack mastery
+- [ ] Fluent in translating between technical, business, and human domains
+- [ ] Completed 120 integrated learning sessions with capstone project
 
 ### Skill Checkpoints
 **Technical Breadth**
@@ -246,32 +260,43 @@ One thing I'll implement or explore further:
 ## Success Metrics
 
 ### Quantitative
-- Daily learning streak
-- Journal entries completed
-- Concepts mastered per week
-- Cross-domain connections made
+- Learning sessions completed (target: 10 per week)
+- Technical implementations built
+- Business cases analyzed
+- Cross-domain connections documented
+- Lines of code written and reviewed
 
 ### Qualitative
-- Confidence in technical discussions
-- Ability to see human factors in tech
-- Comfort with ambiguity and trade-offs
-- Joy in learning and growth
+- Speed of technical decision making
+- Quality of architectural proposals
+- Effectiveness in stakeholder communication
+- Confidence in leading technical teams
+- Ability to balance competing concerns
 
 ## Getting Started
 
-1. **Set up your learning environment**
-   - Create learning journal (digital or physical)
-   - Block 30 minutes daily in calendar
-   - Load instructors into your preferred LLM
+1. **Set up your intensive learning environment**
+   - Create digital learning repository for code and notes
+   - Block two 90-minute sessions daily (morning and evening)
+   - Load all instructors into your preferred LLM
+   - Set up development environment for hands-on practice
 
-2. **Begin with Day 1**
-   - Start with Leadership & Human Factors Instructor
-   - Complete first journal entry
-   - Set intention for the journey
+2. **Begin with Week 1 Integrated Approach**
+   - Start with all three coaches simultaneously
+   - Morning: Technical foundations
+   - Evening: Business and human integration
+   - Document all connections and insights
 
-3. **Trust the process**
-   - Some days will feel easy, others challenging
-   - Integration happens gradually
-   - Your unique background is your superpower
+3. **Embrace the intensity**
+   - This is an aggressive, immersive program
+   - Every concept connects to real application
+   - Your psychology background accelerates learning
+   - Technical mastery comes through integrated practice
 
-Remember: This journey combines your exceptional human skills with expanding technical knowledge to create a unique leadership capability. The technology industry needs leaders who understand both systems and souls.
+**Critical Success Factors**:
+- Commit fully to the two daily sessions
+- Always view technical concepts through multiple lenses
+- Build real implementations, not just theoretical knowledge
+- Use your human insights to accelerate technical understanding
+
+Remember: In 12 weeks, you'll have the technical depth and leadership breadth to excel in senior technical leadership roles. The intensity is intentional - rapid growth requires focused immersion.
